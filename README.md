@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Harsh Vaibhav
 
 🎓 Pre-final-year Electronics & Communication Engineering student  
-💻 Aspiring Full Stack Developer | Competitive Programmer | GATE 2026 Aspirant  
+💻 Aspiring Full Stack Developer | Competitive Programmer | Data Structures and Algorithms | Proficient in C/C++ 
 🚀 Passionate about building intelligent systems & solving real-world problems
 
 ### 🚧 Currently Working On
@@ -22,6 +22,6 @@
 - 💼 LinkedIn: (https://www.linkedin.com/in/harshvaibhav2003)
 
 ### ⚡ Fun Fact
-Despite being from an ECE background, I’ve solved over **600+ coding problems**, built a consistent 100-day streak on LeetCode, and actively contribute on LinkedIn to help peers grow!
+Despite being from an ECE background, I’ve solved over **600+ coding problems**, built a consistent 100-day streak on Coding Platforms, and actively contribute on LinkedIn to help peers grow!
 
 
