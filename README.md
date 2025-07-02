@@ -7,7 +7,6 @@
 ### 🚧 Currently Working On
 - A **Stock Analysis Chatbot Support System** using Python & API integrations
 - Improving my **Data Structures and Algorithms** with LeetCode & Codeforces
-- GATE 2026 preparation with a focus on ECE core subjects
 
 ### 🌱 Currently Learning
 - Full Stack Development (MERN Stack)
