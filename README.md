@@ -16,7 +16,7 @@
 - 📧 Email: vaibhavharsh813@gmail.com  
 - 💼 LinkedIn: [Harsh Vaibhav](https://www.linkedin.com/in/harshvaibhav2003)  
 ### ⚡ Fun Fact
-Despite being from an ECE background, I’ve solved over **600+ coding problems**, built a **100-day coding streak**, and actively contribute on LinkedIn to support the student developer community!
+Despite being from an ECE background, I’ve solved over **300+ coding problems**, built a **100-day coding streak**, and actively contribute on LinkedIn to support the student developer community!
 
 
 
