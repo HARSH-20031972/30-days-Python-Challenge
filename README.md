@@ -4,7 +4,7 @@
 💡 Proficient in C/C++ | Passionate about building intelligent systems & solving real-world problems  
 ### 🚧 Currently Working On
 - 🧠 Stock Analysis Chatbot Support System using Python & API integrations  
-- 🧮 Strengthening Data Structures and Algorithms via LeetCode & Codeforces  
+- 🧮 Strengthening Data Structures and Algorithms via LeetCode & CodeChef  
 ### 🌱 Currently Learning
 - 🔧 Full Stack Development (MERN Stack)  
 - 🧱 System Design fundamentals  
